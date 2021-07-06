@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  padding-left: 7cm;
+}
+footer {
+  margin-top: 100px;
+  font-size: 13px;
+}
+
+form {
+  padding-right: 7cm;
+}
+
+.t {
+  width: 100cm;
+  padding-top: 20cm;
+}
+
+.row {
+  padding-top: 1cm;
+  padding-left: 7cm;
+  padding-right: 7cm;
+}
+
+.img1 {
+  width: 150px;
+  height: 80px;
+}
+
+.img2 {
+  justify-content: center;
+}
+
+.img3 {
+  width: 600px;
+  height: 500px;
+}
+
+.side {
+  font-size: 3mm;
+}
+
+.main {
+}
+
+.copyright {
+  text-align: center;
+}
